@@ -1,1 +1,1 @@
-DevC Training with Andela on Git Version Control
+DevC Training with Andela on Git Version Control.
